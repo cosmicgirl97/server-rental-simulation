@@ -1,2 +1,2 @@
 # projeto-sd
-Projeto de sistemas distribuídos
+Projeto de Sistemas Distribuídos
